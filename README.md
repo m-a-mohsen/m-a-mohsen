@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate Computational designer and Web developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-a-mohsen" alt="m-a-mohsen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-a-mohsen-ma&theme=oldie" alt="m-a-mohsen" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
