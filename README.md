@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m-a-mohsen&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 -->
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
